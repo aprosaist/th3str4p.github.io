@@ -1,89 +1,73 @@
 /*
-	Solid State by HTML5 UP
+	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
-
-	body {
-		background-color: #2e3141;
-		background-image: url("../../images/bg.jpg");
-		background-size: cover;
-		background-attachment: fixed;
-		background-position: center;
-	}
-
-		body:before {
-			background: rgba(46, 49, 65, 0.8);
-			content: '';
-			display: block;
-			height: 100%;
-			left: 0;
-			position: fixed;
-			top: 0;
-			width: 100%;
-		}
-
-		body > * {
-			position: relative;
-			z-index: 1;
-		}
-
 /* Features */
 
+	.features:after {
+		clear: both;
+		content: '';
+		display: block;
+	}
+
 	.features article {
-		display: inline-block;
-		width: 45%;
+		float: left;
 	}
 
-/* Menu */
+		.features article:after {
+			clear: both;
+			content: '';
+			display: block;
+		}
 
-	#menu .inner {
-		margin: 4em auto;
+		.features article .icon {
+			float: left;
+		}
+
+/* Posts */
+
+	.posts:after {
+		clear: both;
+		content: '';
+		display: block;
 	}
 
-/* Wrapper */
-
-	#wrapper > header {
-		background: none !important;
+	.posts article {
+		float: left;
 	}
 
-	.wrapper.spotlight .inner {
-		text-align: left !important;
+/* Main */
+
+	#main {
+		padding-left: 24em;
 	}
 
-	.wrapper.spotlight .image {
-		display: inline-block;
-		margin: 0 3em 2em 0 !important;
-		vertical-align: middle;
-		width: 24%;
-	}
+/* Sidebar */
 
-	.wrapper.spotlight .content {
-		display: inline-block;
-		vertical-align: middle;
-		width: 70%;
+	#sidebar {
+		position: absolute;
+		top: 0;
+		left: 0;
+		min-height: 100%;
+		width: 24em;
 	}
 
 /* Banner */
 
-	#banner {
-		background: none !important;
+	#banner:after {
+		clear: both;
+		content: '';
+		display: block;
 	}
 
-/* Footer */
-
-	#footer {
-		background: none !important;
+	#banner .content {
+		float: left;
+		padding-right: 4em;
 	}
 
-		#footer .inner form {
-			display: inline-block;
-			width: 45%;
-		}
-
-		#footer .inner .contact {
-			display: inline-block;
-			width: 45%;
-		}
+	#banner .image {
+		float: left;
+		margin-left: 0;
+	}
