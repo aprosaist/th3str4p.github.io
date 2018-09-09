@@ -1,126 +1,54 @@
-<!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Benjamin Gilstrap, IT/WebDev</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58a1e9076cfb4200128ad444&product=sticky-share-buttons"></script>
-	</head>
-	<body>
+---
+layout: base
+---
+<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+    
+    <section>
+        <div class="container">
+            <h1>{{ site.inc.title }}</h1>
+            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+        
+            {% if site.inc.twitter %}
+            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+            {% endif %}
+            {% if site.inc.facebook %}
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
+            {% endif %}
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss"></i>
+            </a>
+        </div>
+    </section>
+</div>
 
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<h1><a href="index.html">Benjamin Gilstrap, IT/WebDev</a></h1>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
-
-				<!-- Menu -->
-					<nav id="menu">
-						<div class="inner">
-							<h2>Menu</h2>
-							<ul class="links">
-								<li><a href="cv/">CV</a></li>
-								<li><a href="https://www.linkedin.com/in/benjamingilstrap">LinkedIn</a></li>
-								<li><a href="https://twitter.com/th3str4p">Twitter</a></li>
-								<li><a href="https://github.com/th3str4p">GitHub</a></li>
-								<li><a href="https://techiesupportllc.com">My Company</a></li>
-								</ul>
-							<a href="#" class="close">Close</a>
-						</div>
-					</nav>
-
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<div class="logo"><span class="icon fa-wifi"></span></div>
-							<h2>Hi, I'm Ben!</h2>
-							<p>I'm a professional IT consultant and web developer based in sunny Phoenix, AZ.
-							I enjoy helping small businesses establish their web presence and solve internal IT
-							problems.  I own and operate <a href="https://techiesupportllc.com">Techie Support, LLC.</a></p>
-						</div>
-					</section>
-
-				<!-- Wrapper -->
-					<section id="wrapper">
-
-						<!-- One -->
-							<section id="one" class="wrapper spotlight style1">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">IT Consulting</h2>
-										<p>Small businesses have special needs when it comes to their IT.  They often don't have large budgets
-											to spend on technology like bigger companies.  I enjoy helping them implement the best possible
-											solutions within their budgets.  I also enjoy helping them solve problems with their existing
-											infrastructure in the most cost effective way possible.</p>
-										<a href="https://techiesupportllc.com" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
-
-						<!-- Two -->
-							<section id="two" class="wrapper alt spotlight style2">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Web Design</h2>
-										<p>I love building responsive and featureful websites for small businesses.  I can build simple "static" landing sites
-											to provide a fast, responsive and cheap web presence to small businesses and microbusinesses with extremely tight budgets.
-											I can also build full-featured sites backed by the industry leading CMS WordPress for small businesses that need advanced
-											features like appointment booking and e-commerce.</p>
-										<a href="https://techiesupportllc.com" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
-
-						<!-- Three -->
-							<section id="three" class="wrapper spotlight style3">
-								<div class="inner">
-									<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
-									<div class="content">
-										<h2 class="major">Private Cloud</h2>
-										<p>Small businesses rely on the cloud more today than ever before.  I can build and deploy custom branded
-											private cloud technologies to provide things like private cloud storage and help desk ticketing systems
-											for small businesses that prefer the privacy, flexibility and cost efficiency of their own private cloud.</p>
-										<a href="https://techiesupportllc.com" class="special">Learn more</a>
-									</div>
-								</div>
-							</section>
-
-				<!-- Footer -->
-					<section id="footer">
-						<div class="inner">
-							<h2 class="major">Get in touch</h2>
-							<p>Questions, comments or feedback?  <a href="mailto:bgilstrap@techiesupportllc.com">Drop me a line!</a></p>
-							<ul class="copyright">
-								<li>&copy; Benjamin Gilstrap | <a href="https://techiesupportllc.com">Techie Support, LLC</a><br>
-								All rights reserved.</li>
-							</ul>
-						</div>
-					</section>
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+<article class="container">
+{% for post in paginator.posts %}
+  {% unless post.draft %}
+    <section class="index">
+        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+        <div>
+            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+            <div class="meta">
+                Written By <address>{{ post.author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            </div>
+        </div>
+        <hr>
+    </section>
+    {% endunless %}
+    {% endfor %}
+    <section class="pagination" style="text-align:center">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/" class="btn btn-outline">‹ Newer</a>
+        {% else %}
+        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        {% endif %}
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+      {% endif %}
+    </section>
+</article>
