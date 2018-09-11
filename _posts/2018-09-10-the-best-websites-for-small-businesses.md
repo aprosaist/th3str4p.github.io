@@ -1,5 +1,4 @@
 ---
-layout: posts
 excerpt: "There are a ton of options out there for small businesses to use for creating their websites.  This post examines the most popular option and a potentially better alternative."
 header: /assets/images/the-best-websites-for-small-businesses.jpg
   caption: "Photo credit: [**Jo Szczepanska on Unsplash**](https://unsplash.com/photos/bjemWZcNF34)"
