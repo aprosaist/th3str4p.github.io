@@ -1,18 +1,16 @@
 ---
 title: "The Best Websites for Small Businesses"
 categories:
-  - Web Design
+  - web-design
 tags:
   - wordpress
-  - static sites
-  - small businesses
+  - static-sites
+  - small-businesses
 excerpt: "There are a ton of options out there for small businesses to use for creating their websites.  This post examines the most popular option and a potentially better alternative."
 header:
   image: /assets/images/the-best-websites-for-small-businesses.jpg
   caption: "Photo credit: [**Jo Szczepanska on Unsplash**](https://unsplash.com/photos/bjemWZcNF34)"
 ---
-
-# The Best Websites for Small Businesses
 
 If you're a small business owner, picking the right platform to host your website on is confusing.  You've probably seen or heard advertisements for services like [**Wix**](https://www.wix.com/) or [**Squarespace**](https://www.squarespace.com/).  You might've talked to other small business owners who have made do with basic tools like [**GoDaddy Website Builder**](https://www.godaddy.com/websites/website-builder).  Perhaps you've talked to a web designer who recommended building a website for you with [**WordPress**](https://wordpress.org/).  Maybe you haven't done any research at all and just want to understand the landscape and get a solid recommendation for which way to go.
 
