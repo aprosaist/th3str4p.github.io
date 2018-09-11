@@ -12,6 +12,8 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: /
+  - title: "Free Consultation"
+    url: /free-consultation/
   - title: "CV"
     url: /cv/
   - title: "Blog"
