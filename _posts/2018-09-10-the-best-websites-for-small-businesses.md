@@ -8,7 +8,8 @@ tags:
   - small-businesses
 excerpt: "There are a ton of options out there for small businesses to use for creating their websites.  This post examines the most popular option and a potentially better alternative."
 header:
-  image: /assets/images/the-best-websites-for-small-businesses.jpg
+  overlay_image: /assets/images/the-best-websites-for-small-businesses.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**Jo Szczepanska on Unsplash**](https://unsplash.com/photos/bjemWZcNF34)"
 ---
 
