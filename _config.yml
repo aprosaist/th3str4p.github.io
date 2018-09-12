@@ -261,6 +261,18 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  # portfolio
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  # resources
+  resources:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -284,6 +296,14 @@ defaults:
   # _portfolio
   - scope:
       path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _resources
+  - scope:
+      path: "_resources"
       type: portfolio
     values:
       layout: single
