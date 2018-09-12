@@ -305,7 +305,7 @@ defaults:
   # _resources
   - scope:
       path: "_resources"
-      type: portfolio
+      type: resources
     values:
       layout: single
       author_profile: false
