@@ -42,3 +42,5 @@ If you're fired up and ready to start learning, here are three awesome resources
 3.  [**The Odin Project**](https://www.theodinproject.com/).  This site has a fantastic curriculum covering web development including **Ruby** and databases.  It also has a complete section covering how to get hired as a programmer.  You should be expecting this by now, but this one is also *100% free*!
 
 To recap, anyone can learn programming with enough persistence and the right resources.  If you've been thinking about taking the plunge, there's no better time than the present.  
+
+<p class="notice--info"><b>Need help?</b>  <a href="/free-consultation/">Click here</a> to schedule a free consultation with me to discuss your web design, graphic design or digital marketing needs.</p>
