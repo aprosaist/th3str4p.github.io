@@ -15,9 +15,9 @@ header:
   caption: "Photo credit: [**Jefferson Santos on Unsplash**](https://unsplash.com/photos/9SoCnyQmkzI)"
 ---
 
-What comes to mind when you hear the word programmer?  Is it a nerdy guy in glasses who loves [**Battlestar Galactica**](https://en.wikipedia.org/wiki/Battlestar_Galactica) a bit too much?  Maybe you picture [**Wayne Knight**](https://en.wikipedia.org/wiki/Wayne_Knight) as Dennis Nedry in Jurassic Park - ah ah ah, you didn't say the magic word!
+What comes to mind when you hear the word programmer?  Is it a nerdy guy in glasses who loves [**Battlestar Galactica**](https://en.wikipedia.org/wiki/Battlestar_Galactica) a bit too much?  Maybe you picture [**Wayne Knight**](https://en.wikipedia.org/wiki/Wayne_Knight) as Dennis Nedry in Jurassic Park.
 
-{% include figure image_path="https://media.giphy.com/media/10JMv1m2VeIY92/giphy.gif" alt="Dennis Nedry" caption="Ah ah ah, you didn't say the magic word!." %}
+{% include figure image_path="https://media.giphy.com/media/10JMv1m2VeIY92/giphy.gif" alt="Dennis Nedry" caption="Ah ah ah, you didn't say the magic word!" %}
 
 There are three big misconceptions about programming:
 1.  **You have to be great at math.**
