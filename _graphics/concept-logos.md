@@ -23,6 +23,21 @@ gallery:
   - url: /assets/images/deliveryace-2.png
     image_path: /assets/images/deliveryace-2.png
     alt: "Delivery Ace"
+  - url: /assets/images/flintridgecabins-1.png
+    image_path: /assets/images/flintridgecabins-1.png
+    alt: "Flint Ridge Cabins"
+  - url: /assets/images/greengy-1.png
+    image_path: /assets/images/greengy-1.png
+    alt: "Greengy"
+  - url: /assets/images/hostspresso-1.png
+    image_path: /assets/images/hostspresso-1.png
+    alt: "Hostspresso"
+  - url: /assets/images/marketerbean-1.png
+    image_path: /assets/images/marketerbean-1.png
+    alt: "Marketer Bean"
+  - url: /assets/images/sellffee-3.png
+    image_path: /assets/images/sellffee-3.png
+    alt: "Sellffee"
 ---
 
 These ideas never really took off, but their logos do showcase a variety of colors and styles.
