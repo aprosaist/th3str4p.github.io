@@ -143,6 +143,7 @@ include:
   - _posts
   - _resources
   - _graphics
+  - _websites
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -275,6 +276,10 @@ collections:
     permalink: /:collection/:path/
   # graphics
   graphics:
+    output: true
+    permalink: /:collection/:path/
+  # websites
+  websites:
     output: true
     permalink: /:collection/:path/
 
