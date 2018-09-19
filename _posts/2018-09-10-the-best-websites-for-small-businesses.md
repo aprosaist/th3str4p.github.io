@@ -59,5 +59,6 @@ To recap, most small business websites today use WordPress. It’s well known, w
     </div>
 </form>
 </div>
+<p><i>I do my best to make sure the newsletter content is interesting and relevant.  I promise not to sell your information or spam you.</i></p>
 
 <!--End mc_embed_signup-->
