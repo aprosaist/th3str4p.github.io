@@ -20,7 +20,7 @@ header:
 ---
 
 ## Introduction
-If you own a small business, social media is one of the most powerful tools you have in your arsenal.  Leveraging the most popular platforms -- [**Facebook*](https://facebook.com), [**Twitter**](https://twitter.com), [**LinkedIn**](https://www.linkedin.com), etc. -- allows you to reach more people and grow your following faster than ever.  And every savvy business owner knows that a bigger following will inevitably lead to more revenue.
+If you own a small business, social media is one of the most powerful tools you have in your arsenal.  Leveraging the most popular platforms -- [**Facebook**](https://facebook.com), [**Twitter**](https://twitter.com), [**LinkedIn**](https://www.linkedin.com), etc. -- allows you to reach more people and grow your following faster than ever.  And every savvy business owner knows that a bigger following will inevitably lead to more revenue.
 
 ## The Problem
 There's just one little thing that throws a wrench in it for small businesses.  ***Time***.  In my experience, the average small business owner wears a ton of different hats throughout the day.  They might be the salesperson, the marketer, the accountant, the customer service rep and the person doing the actual work all in one.  At best, they may have a small team of people who help them.  Either way, everyone has multiple responsibilities.  **An almost infinite amount of work needs to get done, but there's only a finite number of hours in the day.**
