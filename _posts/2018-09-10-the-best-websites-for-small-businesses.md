@@ -58,7 +58,7 @@ To recap, most small business websites today use WordPress. It’s well known, w
     <div class="clear"><input type="submit" value="Subscribe Now" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
-</div>
 <p><i>I do my best to make sure the newsletter content is interesting and relevant.  I promise not to sell your information or spam you.</i></p>
+</div>
 
 <!--End mc_embed_signup-->
