@@ -112,7 +112,7 @@ author:
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
-  codepen          :
+  codepen          : "th3str4p"
   dribbble         :
   flickr           :
   facebook         : "th3str4p"
