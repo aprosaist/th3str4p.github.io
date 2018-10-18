@@ -1,6 +1,6 @@
 ---
 title: "Stan Williams Investigative Service"
-excerpt: "This is a WordPress website."
+excerpt: "This is a simple WordPress website built for a local Phoenix business."
 header:
   overlay_image: /assets/images/stan-williams-investigative-service.jpg
   overlay_filter: 0.5
