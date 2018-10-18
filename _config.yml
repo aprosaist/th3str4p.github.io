@@ -328,3 +328,11 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _websites
+  - scope:
+      path: "_websites"
+      type: websites
+    values:
+      layout: single
+      author_profile: false
+      share: true
