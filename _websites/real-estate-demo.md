@@ -2,7 +2,7 @@
 title: "Real Estate Demo"
 excerpt: "This is a one-page real estate demo site built with HTML, CSS and JavaScript."
 header:
-  overlay_image: /assets/images/realestatedemo.jpg
+  overlay_image: /assets/images/real-estate-demo.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**rawpixel on Unsplash**](https://unsplash.com/photos/zki5BhKRQa0)"
 ---
