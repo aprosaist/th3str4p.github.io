@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Gilstrap - Making a difference, one day at a time."
+title                    : "Ben Gilstrap"
 title_separator          : "-"
 name                     : "Ben Gilstrap"
 description              : "Web design, graphic design, digital marketing."
@@ -115,13 +115,13 @@ author:
   codepen          : "th3str4p"
   dribbble         :
   flickr           :
-  facebook         : "th3str4p"
+  facebook         : "bengilstrap0"
   foursquare       :
   github           : "th3str4p"
   gitlab           :
   google_plus      : # "117614231102234513390"
   keybase          :
-  instagram        :
+  instagram        : "bengilstrap0"
   lastfm           :
   linkedin         : "benjamingilstrap" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        : "th3str4p"
