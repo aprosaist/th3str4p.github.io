@@ -3,11 +3,11 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-*, *:before, *:after {
+/* *, *:before, *:after {
   box-sizing: inherit;
 }
 
-/* .pricing-background {
+.pricing-background {
   padding: 0 25px 25px;
   position: relative;
   width: 100%;
