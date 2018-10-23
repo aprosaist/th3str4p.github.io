@@ -8,12 +8,12 @@ html {
   }
   
   .background {
-    padding: 0 25px 25px;
+    padding: 0 25px 25px 25px;
     position: relative;
     width: 100%;
   }
   
-  .background::after {
+  /* .background::after {
     content: '';
     background: #60a9ff;
     background: -moz-linear-gradient(top, #60a9ff 0%, #4394f4 100%);
@@ -26,7 +26,7 @@ html {
     top: 0;
     width: 100%;
     z-index: 1;
-  }
+  } */
   
   @media (min-width: 900px) {
     .background {
