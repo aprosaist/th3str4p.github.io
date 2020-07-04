@@ -1,0 +1,8 @@
+#+TITLE: Ben's GitHub Page
+#+AUTHOR: Benjamin Gilstrap
+
+* Welcome!
+This is my page.
+
+** Built with Emacs and Org mode
+This was built with an Org mode file and was exported to HTML.
