@@ -179,6 +179,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<style>.figure-number {display: none;}</style>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -230,26 +231,26 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Ben's GitHub Page</h1>
 
-<div id="outline-container-org0a195c9" class="outline-2">
-<h2 id="org0a195c9">Welcome!</h2>
-<div class="outline-text-2" id="text-org0a195c9">
+<div id="outline-container-org9f6f535" class="outline-2">
+<h2 id="org9f6f535">Welcome!</h2>
+<div class="outline-text-2" id="text-org9f6f535">
 <p>
 This is my page.
 </p>
 </div>
 
-<div id="outline-container-org71fcbf4" class="outline-3">
-<h3 id="org71fcbf4">Built with Emacs and Org mode</h3>
-<div class="outline-text-3" id="text-org71fcbf4">
+<div id="outline-container-orgddabfe9" class="outline-3">
+<h3 id="orgddabfe9">Built with Emacs and Org mode</h3>
+<div class="outline-text-3" id="text-orgddabfe9">
 <p>
 This was built with an Org mode file and was exported to HTML.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org83edfcc" class="outline-3">
-<h3 id="org83edfcc">Lorem Ipsum Block</h3>
-<div class="outline-text-3" id="text-org83edfcc">
+<div id="outline-container-org28fd2b7" class="outline-3">
+<h3 id="org28fd2b7">Lorem Ipsum Block</h3>
+<div class="outline-text-3" id="text-org28fd2b7">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ut sem viverra aliquet eget sit amet. Justo eget magna fermentum iaculis eu non. Lectus quam id leo in vitae turpis. Amet venenatis urna cursus eget nunc. Non diam phasellus vestibulum lorem sed. Consectetur purus ut faucibus pulvinar. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Aliquam nulla facilisi cras fermentum odio. Elit sed vulputate mi sit. Interdum consectetur libero id faucibus nisl. Purus ut faucibus pulvinar elementum integer. Orci eu lobortis elementum nibh tellus. Praesent semper feugiat nibh sed pulvinar proin gravida. Fusce ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et tortor.
 </p>
@@ -272,11 +273,11 @@ Elementum nisi quis eleifend quam adipiscing vitae. Eget mauris pharetra et ultr
 </div>
 </div>
 
-<div id="outline-container-orgff4ca09" class="outline-3">
-<h3 id="orgff4ca09">Here's a picture</h3>
-<div class="outline-text-3" id="text-orgff4ca09">
+<div id="outline-container-org4d8b406" class="outline-3">
+<h3 id="org4d8b406">Here's a picture</h3>
+<div class="outline-text-3" id="text-org4d8b406">
 
-<div id="org30bd272" class="figure">
+<div id="org4648c6c" class="figure">
 <p><img src="./images/sandwich.png" alt="sandwich.png" />
 </p>
 <p><span class="figure-number">Figure 1: </span>If only this worked in real life.</p>

@@ -7,10 +7,10 @@
 This is my page.
 
 ** Built with Emacs and Org mode
-This was built with an Org mode file and was exported to HTML.
+*This was built with an Org mode file and was exported to HTML.*
 
 ** Lorem Ipsum Block
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ut sem viverra aliquet eget sit amet. Justo eget magna fermentum iaculis eu non. Lectus quam id leo in vitae turpis. Amet venenatis urna cursus eget nunc. Non diam phasellus vestibulum lorem sed. Consectetur purus ut faucibus pulvinar. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Aliquam nulla facilisi cras fermentum odio. Elit sed vulputate mi sit. Interdum consectetur libero id faucibus nisl. Purus ut faucibus pulvinar elementum integer. Orci eu lobortis elementum nibh tellus. Praesent semper feugiat nibh sed pulvinar proin gravida. Fusce ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et tortor.
+/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua./ Enim ut sem viverra aliquet eget sit amet. Justo eget magna fermentum iaculis eu non. Lectus quam id leo in vitae turpis. Amet venenatis urna cursus eget nunc. Non diam phasellus vestibulum lorem sed. Consectetur purus ut faucibus pulvinar. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Aliquam nulla facilisi cras fermentum odio. Elit sed vulputate mi sit. Interdum consectetur libero id faucibus nisl. Purus ut faucibus pulvinar elementum integer. Orci eu lobortis elementum nibh tellus. Praesent semper feugiat nibh sed pulvinar proin gravida. Fusce ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et tortor.
 
 Sagittis orci a scelerisque purus semper eget duis at tellus. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Et ligula ullamcorper malesuada proin libero. Ultricies mi quis hendrerit dolor magna. Dictum at tempor commodo ullamcorper. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. In ante metus dictum at tempor commodo. Mauris vitae ultricies leo integer. Volutpat blandit aliquam etiam erat velit. Aliquet porttitor lacus luctus accumsan tortor posuere. Sed blandit libero volutpat sed cras ornare arcu.
 
