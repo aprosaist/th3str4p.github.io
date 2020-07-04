@@ -9,6 +9,8 @@ This is my page.
 ** Built with Emacs and Org mode
 *This was built with an Org mode file and was exported to HTML.*
 
+'mailto:john@doe.com'
+
 ** Lorem Ipsum Block
 /Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua./ Enim ut sem viverra aliquet eget sit amet. Justo eget magna fermentum iaculis eu non. Lectus quam id leo in vitae turpis. Amet venenatis urna cursus eget nunc. Non diam phasellus vestibulum lorem sed. Consectetur purus ut faucibus pulvinar. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Aliquam nulla facilisi cras fermentum odio. Elit sed vulputate mi sit. Interdum consectetur libero id faucibus nisl. Purus ut faucibus pulvinar elementum integer. Orci eu lobortis elementum nibh tellus. Praesent semper feugiat nibh sed pulvinar proin gravida. Fusce ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et tortor.
 
