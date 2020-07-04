@@ -1,5 +1,6 @@
 #+TITLE: Ben's GitHub Page
 #+AUTHOR: Benjamin Gilstrap
+#+OPTIONS: toc:nil timestamp:nil
 
 * Welcome!
 This is my page.
