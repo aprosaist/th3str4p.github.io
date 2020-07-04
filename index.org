@@ -1,6 +1,7 @@
 #+TITLE: Ben's GitHub Page
 #+AUTHOR: Benjamin Gilstrap
 #+OPTIONS: toc:nil timestamp:nil num:nil
+#+HTML_HEAD: <style>.figure-number {display: none;}</style>
 
 * Welcome!
 This is my page.
