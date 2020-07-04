@@ -231,26 +231,30 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Ben's GitHub Page</h1>
 
-<div id="outline-container-org0ca1e02" class="outline-2">
-<h2 id="org0ca1e02">Welcome!</h2>
-<div class="outline-text-2" id="text-org0ca1e02">
+<div id="outline-container-org9e8ef82" class="outline-2">
+<h2 id="org9e8ef82">Welcome!</h2>
+<div class="outline-text-2" id="text-org9e8ef82">
 <p>
 This is my page.
 </p>
 </div>
 
-<div id="outline-container-org16346a4" class="outline-3">
-<h3 id="org16346a4">Built with Emacs and Org mode</h3>
-<div class="outline-text-3" id="text-org16346a4">
+<div id="outline-container-orgbad1135" class="outline-3">
+<h3 id="orgbad1135">Built with Emacs and Org mode</h3>
+<div class="outline-text-3" id="text-orgbad1135">
 <p>
 <b>This was built with an Org mode file and was exported to HTML.</b>
+</p>
+
+<p>
+'mailto:john@doe.com'
 </p>
 </div>
 </div>
 
-<div id="outline-container-org9989269" class="outline-3">
-<h3 id="org9989269">Lorem Ipsum Block</h3>
-<div class="outline-text-3" id="text-org9989269">
+<div id="outline-container-org089e4d4" class="outline-3">
+<h3 id="org089e4d4">Lorem Ipsum Block</h3>
+<div class="outline-text-3" id="text-org089e4d4">
 <p>
 <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</i> Enim ut sem viverra aliquet eget sit amet. Justo eget magna fermentum iaculis eu non. Lectus quam id leo in vitae turpis. Amet venenatis urna cursus eget nunc. Non diam phasellus vestibulum lorem sed. Consectetur purus ut faucibus pulvinar. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Aliquam nulla facilisi cras fermentum odio. Elit sed vulputate mi sit. Interdum consectetur libero id faucibus nisl. Purus ut faucibus pulvinar elementum integer. Orci eu lobortis elementum nibh tellus. Praesent semper feugiat nibh sed pulvinar proin gravida. Fusce ut placerat orci nulla pellentesque dignissim. Gravida arcu ac tortor dignissim convallis aenean et tortor.
 </p>
@@ -273,11 +277,11 @@ Elementum nisi quis eleifend quam adipiscing vitae. Eget mauris pharetra et ultr
 </div>
 </div>
 
-<div id="outline-container-org425ce85" class="outline-3">
-<h3 id="org425ce85">Here's a picture</h3>
-<div class="outline-text-3" id="text-org425ce85">
+<div id="outline-container-org8de4d27" class="outline-3">
+<h3 id="org8de4d27">Here's a picture</h3>
+<div class="outline-text-3" id="text-org8de4d27">
 
-<div id="orgd4053da" class="figure">
+<div id="orgdb9a401" class="figure">
 <p><img src="./images/sandwich.png" alt="sandwich.png" />
 </p>
 <p><span class="figure-number">Figure 1: </span>If only this worked in real life.</p>
